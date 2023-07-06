@@ -605,7 +605,7 @@ section {
 }
 
 .about .content ul li {
-  padding-bottom: 10px;
+  padding-bottom: 4px;
 }
 
 .about .content ul i {
@@ -616,6 +616,13 @@ section {
 
 .about .content p:last-child {
   margin-bottom: 0;
+}
+
+.about .content .btn {
+  color: #fff;
+  background: #34b7a7;
+  width: 100%;
+  text-align: center;
 }
 
 /*--------------------------------------------------------------
